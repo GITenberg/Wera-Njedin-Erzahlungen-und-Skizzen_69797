@@ -1,0 +1,31 @@
+_repo: Wera-Njedin-Erzahlungen-und-Skizzen_69797
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kolb, Annette
+    alias: Kolb, Anna Mathilde
+    birthdate: 1870
+    deathdate: 1967
+    gutenberg_agent_id: '42651'
+    url: http://www.gutenberg.org/2009/agents/42651
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Annette_Kolb
+    - https://de.wikipedia.org/wiki/Annette_Kolb
+description: ''
+gutenberg_issued: '2023-01-14'
+identifiers:
+  gutenberg: '69797'
+language: de
+pgterms:marc904: https://hdl.handle.net/2027/wu.89099409674
+pgterms:marc905: 20210103033454kolb
+pgterms:marc906: '1925'
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at https://www.pgdp.net.
+  This book was produced from images made available by the HathiTrust Digital Library.
+publication_note: Propyläen,1925.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Wera Njedin: Erzählungen und Skizzen'
+url: http://www.gutenberg.org/ebooks/69797
