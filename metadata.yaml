@@ -1,5 +1,8 @@
 _repo: Wera-Njedin-Erzahlungen-und-Skizzen_69797
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69797-h/images/cover.jpg
 creator:
   author:
     agent_name: Kolb, Annette
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Annette_Kolb
     - https://de.wikipedia.org/wiki/Annette_Kolb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69797#Wera-Njedin-Erzahlungen-und-Skizzen
 gutenberg_issued: '2023-01-14'
 identifiers:
   gutenberg: '69797'
